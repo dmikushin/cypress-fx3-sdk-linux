@@ -15,7 +15,7 @@
 ##
 
 FX3FWROOT=../..
-FX3PFWROOT=../../u3p_firmware
+FX3PFWROOT=$(FX3FWROOT)/ThirdParty/example-firmware
 
 all:compile
 

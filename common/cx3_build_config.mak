@@ -20,7 +20,7 @@
 
 # the common include path
 Include	=-I. \
-	 -I$(FX3PFWROOT)/inc
+	 -I$(FX3PFWROOT)/include -I$(FX3FWROOT)/u3p_firmware/include
 
 # Default option for Config is fx3_debug
 ifeq ($(CYCONFOPT),)

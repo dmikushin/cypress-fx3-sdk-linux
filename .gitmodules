@@ -1,0 +1,4 @@
+[submodule "ThirdParty/example-firmware"]
+	path = ThirdParty/example-firmware
+	url = git@glazomer.io:cypress/cypress-fx3.git
+	branch = example-firmware
